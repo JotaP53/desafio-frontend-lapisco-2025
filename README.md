@@ -1,1 +1,1 @@
-# desafio-frontend-lapisco-2025
+# Desafio Front-end – LAPISCO 2025
